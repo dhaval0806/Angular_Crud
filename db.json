@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "name": "hjbj",
+      "email": "bbjbj",
+      "city": "jnjm",
+      "pinCode": "388540",
+      "phoneNumber": "2236488888888",
+      "id": 1
+    },
+    {
+      "name": "hnj",
+      "email": "hbjbj",
+      "city": "bhybghg",
+      "pinCode": "vhgvh",
+      "phoneNumber": "12365478",
+      "id": 2
+    }
+  ]
+}
